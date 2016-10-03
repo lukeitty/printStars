@@ -1,3 +1,9 @@
+/**
+* This program prints a pattern of two staicases made out of stars
+*@author: Luke Ittycheria
+*@version: 1.0
+*/
+
 public class printStars
 {
 
